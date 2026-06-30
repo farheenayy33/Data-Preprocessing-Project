@@ -30,11 +30,7 @@ Data_Preprocessing_Project/
 │── cleaned_dataset.csv
 │── requirements.txt
 │── README.md
-└── images/
-    ├── eda.png
-    ├── correlation_heatmap.png
-    ├── distributions.png
-    └── ...
+└── heatmap.png
 ```
 
 ---
